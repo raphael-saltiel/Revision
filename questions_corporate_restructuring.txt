@@ -451,7 +451,7 @@ questions = [
         "explanation": "Taxable gain = 30 − 12 = 18.",
     },
     {
-        "question": "Q52. Using the same data, what is the tax payment?",
+        "question": "Q52. Using the same data,(sale price 30, tax basis 12, tax rate 30%), what is the tax payment?",
         "choices": ["A. $2.4", "B. $3.6", "C. $5.4", "D. $9"],
         "answer": 2,
         "explanation": "Tax = 18 × 30% = 5.4.",
